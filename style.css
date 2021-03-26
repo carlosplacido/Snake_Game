@@ -1,0 +1,12 @@
+body{
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+ /*eixo x*/
+    align-items: center;
+ /*eixo y*/
+    flex-direction: column;
+  /*deixa um abaixo do outro*/ 
+    color: green;
+}
